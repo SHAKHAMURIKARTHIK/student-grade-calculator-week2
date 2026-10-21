@@ -1,0 +1,51 @@
+Student Grade Calculator — Test Cases
+
+Try these examples to check the program.
+
+1. Marks: 95
+   Expected: Grade A
+
+2. Marks: 85
+   Expected: Grade B
+
+3. Marks: 75
+   Expected: Grade C
+
+4. Marks: 65
+   Expected: Grade D
+
+5. Marks: 40
+   Expected: Grade F
+
+6. Marks: 100
+   Expected: Grade A
+
+7. Marks: 90
+   Expected: Grade A
+
+8. Marks: 80
+   Expected: Grade B
+
+9. Marks: 70
+   Expected: Grade C
+
+10. Marks: 60
+    Expected: Grade D
+
+11. Marks: 0
+    Expected: Grade F
+
+12. Marks: -5
+    Expected: Rejected; the program asks again.
+
+13. Marks: 105
+    Expected: Rejected; the program asks again.
+
+14. Input: hello
+    Expected: The program asks for a valid number again.
+
+15. Marks: 89.5
+    Expected: Grade B.
+
+16. Leave the name blank
+    Expected: The program asks for a name again.
